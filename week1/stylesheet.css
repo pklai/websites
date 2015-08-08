@@ -1,0 +1,33 @@
+body{
+	background-image: url(https://generalassemb.ly/online/assets/ga-lockup-logo-9d95d5d0a1c966540edaedcb440b1963.png);
+}
+
+h1{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 50px;
+	text-shadow: 5px 5px 2px gray;
+}
+
+p{
+	padding: 20px;
+	width: 75%;
+	background-color: white;
+	border-radius: 10px;
+}
+
+p:first-letter{
+	font-size: 30px;
+}
+
+li:first-letter{
+	color: red;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	background-color: red;
+	color: white;
+}
