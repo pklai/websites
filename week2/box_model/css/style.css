@@ -1,0 +1,56 @@
+body {
+	font-family: sans-serif;
+	line-height: 1.5;
+}
+
+/* add styles to <h1>: a red background, some padding, and a black border.*/
+h1 {
+	background-color: red;
+	padding: 25px;
+	border: 5px dashed black;
+}
+
+/*add styles t <p>: blue background, white text, some padding, and a black border.*/
+p {
+	background-color: blue;
+	color: white;
+	padding: 10px;
+	border: 5px solid black;
+}
+
+/*add styles to <code>: element a white background, black text, a little padding, and a thin border.*/
+code {
+	background-color: white;
+	color: black;
+	padding: 3px;
+	border: 1px solid black;
+}
+
+h2{
+	padding: 25px;
+}
+ol{
+	padding: 25px;
+}
+li{
+	padding: 25px;
+}
+
+.outer_box{
+	width: 840px;
+	background-color: yellow;
+	border:1px solid red;
+	display: inline-block; /*stops the outer_box collapsing*/
+}
+
+.inner_box{
+	float: left; /*tags will float up and then left - if they can!*/
+	width: 300px;
+	color:beige; /*font color*/
+	background-color: green; /* background color*/
+	margin: 20px;
+	border: 20px dashed blue;
+	padding: 20px;
+}
+
+.resources{clear:both;}
