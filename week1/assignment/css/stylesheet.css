@@ -5,17 +5,21 @@ html{
 
 body{
 	background-color: beige;
-	width: 80%;
+	width: 100%;
 	min-height: 100%; /*makes the body at least as high as the html tag*/
 	margin: 0 auto; /*makes top-bottom 0 px, left-right split automatically*/
-	padding: 0 20px; /*pushes body away from html*/
+	padding: 0px 0px 0px 0px; /*pushes body away from html*/
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
 } 
+
+.container {width: 80%; margin: auto;}
 
 nav{
 	background-color: beige;
 	padding-top: 20px;
+	padding-right: 20px;
 	padding-bottom: 20px;
+	padding-left: 20px;
 	text-align: right; /*centers the links in the nav tag*/
 }
 
