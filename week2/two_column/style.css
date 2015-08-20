@@ -1,0 +1,119 @@
+header {
+	background: lightgreen;
+	width: 20%;
+	border: 1px solid red;
+	float: left;
+}
+
+.nav1 {
+	background: pink;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 15%;
+	float: right;
+}
+
+.nav2 {
+	background: lightyellow;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 15%;
+	float: right;
+}
+
+.nav3 {
+	background: darkblue;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 15%;
+	float: right;
+}
+
+.nav4 {
+	background: brown;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 15%;
+	float: right;
+}
+
+.nav5 {
+	background: teal;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 15%;
+	float: right;
+}
+
+.class1 {
+	background: purple;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 80%;
+	float: right;
+	clear: both;
+}
+
+section {
+	background: lightblue;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 20%;
+	float: left;
+}
+
+aside {
+	background: silver;
+	border: 1px solid gold;
+	box-sizing: border-box;
+	width: 20%;
+	float: right;
+}
+
+article {
+	background: lightgray;
+	border: 1px solid gray;
+	box-sizing: border-box;
+	width: 60%;
+	float: right;
+}
+
+.adv1 {
+	background: teal;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 20%;
+	float: right;
+	clear: both;
+}
+
+.adv2 {
+	background: red;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 20%;
+	float: right;
+}
+
+.adv3 {
+	background: blue;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 20%;
+	float: right;
+}
+
+.adv4 {
+	background: green;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 20%;
+	float: right;
+}
+
+
+footer {
+	background: orange;
+	border: 1px solid blue;
+	clear: both;
+}
