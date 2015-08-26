@@ -1,0 +1,93 @@
+body {
+	width: 1024px;
+	font-family: sans-serif;
+	background-color: white ;
+}
+
+header {
+	background-color: black;
+	font-weight: 800;
+	font-size: 36px;
+	color: yellow;
+	padding: 20px 20px 60px 30px;
+	border-bottom: 8px solid yellow;
+}
+
+ul {
+	float: right;
+}
+
+ul li {
+	display: inline;
+}
+li {
+	background-color: black;
+	font-weight: 400;
+	font-size: 18px;
+	color: white;
+	padding: 30px 10px 10px 10px;
+}
+
+.slogan {
+	background-color: gray;
+	text-align: center;
+	font-weight: 600;
+	font-size: 24px;
+	font-style: italic;
+	padding: 30px 0px 30px 0px;
+}
+
+#taste {
+	color: darkgray;
+	text-decoration: line-through;
+}
+
+#are {
+	border-bottom: 2px solid yellow;
+}
+
+.container {
+	background: url(coworking.jpg)center center no-repeat;
+	background-size: cover;
+}
+
+.transparent {
+	width:20%;
+	margin-left:60%;    
+	padding: 100px 30px 100px 70px;
+	border-style: solid;
+	border-width: 5px;
+}
+
+button {
+	background-color: gray;
+	font-size: 18px;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+div{
+	box-sizing:border-box;
+	float: left;
+}
+.left_material {
+	width: 33.3%;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.center_material {
+	width: 33.3%;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.right_material {
+	width: 33.3%;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+footer {
+	font-colour: yellow;
+}

@@ -1,0 +1,22 @@
+html{
+	background: gray;
+}
+
+body{
+	width:80%;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+#data{
+	width:50%;
+	margin: 0 auto 20px auto;
+	border-radius: 10px;
+	box-shadow: 5px 5px 2px gray;
+	background: lightgray;
+	padding:10px;
+}
+
+span{
+	display:block;
+}

@@ -1,0 +1,31 @@
+html{
+	background: gray;
+}
+
+body{
+	background: white;
+	width:80%;
+	margin: 0 auto;
+	padding: 50px;
+}
+.background{
+	border: 5px dashed blue;
+	background: lightgreen;
+	padding: 50px;
+	height:300px;
+	width:900px;
+	margin:0  auto;
+	/*image is 200px x 200px*/
+	background-image: url("code_monkey.jpg");
+
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-size: 80px 60px;
+
+	
+	
+}
+
+.content{
+	background: rgba(255, 255, 255, 1);
+}
