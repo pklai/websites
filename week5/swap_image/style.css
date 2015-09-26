@@ -1,0 +1,15 @@
+body, #data{
+	width:50%;
+	margin: 0 auto;
+}
+
+button{
+	display:block;
+	margin: 0 auto;
+	padding:10px;
+}
+
+#data{
+	background-image: url('images/bronze.jpg');
+}
+

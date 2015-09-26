@@ -1,0 +1,21 @@
+body{
+	font-size: 20px;
+}
+
+div{
+	margin:10px;
+	border: 2px solid lightblue;
+	padding:10px;
+	border-radius: 10px;
+}
+
+#col-2, #col-3, #col-6{
+	display:flex;
+}
+
+@media(max-width: 600px){
+	#col-6{
+		display:block;
+		border: 2px solid green;
+	}
+}
